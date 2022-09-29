@@ -1,3 +1,6 @@
+# Announcement :loudspeaker: 
+
+This repository is transferred from [gdm-SynseneHealth](https://github.com/sensynehealth/polaris-behealthy) to Huma organisation as part of change in asset ownership 
 # polaris-behealthy
 
 **polaris-behealthy** is a BDD Toolkit for Polaris Services to ensure our integrations are healthy.
